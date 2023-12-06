@@ -1,10 +1,9 @@
+import Hero from "../elements/Hero";
+
 const ScrollSection = () => {
   return(
     <section className="w-full md:w-5/12 ml-auto">
-      <div className="bg-red-200 h-screen flex justify-center items-center flex-col p-10">
-        <h2 className="text-4xl mb-5">Meet Nero</h2>
-        <p className="mb-5">I was born 20 May 2020</p>
-      </div>
+      <Hero/>
       <div className="bg-red-50 h-screen flex justify-center items-center flex-col p-10">
         <h2 className="text-4xl mb-5">I love food</h2>
         <p className="mb-5">Bones, Pallets, and more!</p>

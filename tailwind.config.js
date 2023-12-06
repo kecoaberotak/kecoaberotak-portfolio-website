@@ -19,7 +19,7 @@ export default {
       },
       fontFamily: {
         poppins: ['Poppins'],
-      }
+      },
     },
   },
   plugins: [],
