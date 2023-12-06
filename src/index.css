@@ -12,4 +12,8 @@
   .socmed {
     @apply text-putihDark;
   }
+
+  .project-card {
+    @apply w-[448px] h-[148px] bg-hitamDark flex flex-col justify-center p-5 hover:scale-110;
+  }
 }
