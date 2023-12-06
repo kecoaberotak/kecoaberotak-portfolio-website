@@ -4,7 +4,7 @@ function App() {
     <div className="relative">
       {/* Fixed */}
       <div className="relative md:fixed w-full md:w-7/12 min-h-screen inset-0">
-        <h1 className="absolute bottom-0 left-0 p-20 text-white text-8xl">Benny<br />The Pup</h1>
+        <h1 className="absolute bottom-0 left-0 p-20 text-white text-8xl">Nero<br />The Kitten</h1>
         <img src="kucing.jpg" className="object-cover w-full h-full" />
       </div>
       {/* Scroll */}
