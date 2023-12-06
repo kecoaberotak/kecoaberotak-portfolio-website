@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="relative">
       {/* Fixed */}
-      <FixedSection></FixedSection>
+      <FixedSection/>
       {/* Scroll */}
       <section className="w-full md:w-5/12 ml-auto">
         <div className="bg-red-200 h-screen flex justify-center items-center flex-col p-10">
