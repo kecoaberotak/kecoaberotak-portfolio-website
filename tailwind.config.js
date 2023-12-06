@@ -15,7 +15,8 @@ export default {
         abuLight: '#628290',
         abuDark: '#A2A2A2',
         putihDark: '#E4E4E4',
-        putihLight: '#FFFFFF'
+        putihLight: '#FFFFFF',
+        salmon: '#EFAEB6',
       },
       fontFamily: {
         poppins: ['Poppins'],
