@@ -14,6 +14,6 @@
   }
 
   .project-card {
-    @apply w-[448px] h-[148px] bg-hitamDark flex flex-col justify-center p-5 hover:scale-110;
+    @apply w-[448px] h-[148px] bg-hitamDark flex flex-col justify-center p-5 hover:scale-110 hover:bg-hitamLight;
   }
 }

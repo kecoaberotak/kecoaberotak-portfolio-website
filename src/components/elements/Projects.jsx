@@ -7,7 +7,7 @@ const Projects = () => {
         <h2 className="text-4xl font-bold mb-4 text-putihDark">Projects</h2>
         <div className=" w-8 h-8 bg-transparent border-b-2 border-biruLight"></div>
       </section>
-      <section className="flex flex-col gap-4">
+      <section className="flex flex-col gap-1">
         <ProjectCard/>
         <ProjectCard/>
         <ProjectCard/>
