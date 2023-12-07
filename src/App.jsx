@@ -1,4 +1,4 @@
-import FixedSection from "./components/fragments/fixedSection"
+import FixedSection from "./components/fragments/FixedSection"
 import ScrollSection from "./components/fragments/ScrollSection"
 
 function App() {
