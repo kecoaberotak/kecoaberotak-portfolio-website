@@ -61,12 +61,12 @@ const About = () => {
         <ul className="list-disc pl-4 marker:text-biruLight">
           <li>Javascript</li>
           <li>React.js</li>
-          <li>Node.Js</li>
+          <li>Node.js</li>
         </ul>
         <ul className="list-disc pl-4 marker:text-biruLight">
           <li>Git</li>
           <li>Figma</li>
-          <li>Express.Js</li>
+          <li>Express.js</li>
         </ul>
         <ul className="list-disc pl-4 marker:text-biruLight">
           <li>MongoDB</li>
