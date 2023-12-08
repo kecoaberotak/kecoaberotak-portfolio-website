@@ -4,7 +4,7 @@
 
 @layer base {
   html {
-    @apply font-poppins font-normal scroll-smooth;
+    @apply font-poppins font-normal scroll-smooth bg-biruDark;
   }
 }
 
