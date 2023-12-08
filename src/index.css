@@ -14,7 +14,7 @@
   }
 
   .project-card {
-    @apply w-[448px] h-[148px] bg-hitamDark flex flex-col justify-center p-5 hover:scale-110 hover:bg-hitamLight ease-out duration-300;
+    @apply xl:w-[448px] xl:h-[148px] bg-hitamDark flex flex-col justify-center p-5 hover:scale-110 hover:bg-hitamLight ease-out duration-300;
   }
 
   .navbar-normal {

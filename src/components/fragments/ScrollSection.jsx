@@ -7,7 +7,7 @@ const ScrollSection = () => {
     <section className="w-full md:w-5/12 ml-auto">
       <Hero/>
       <About/>
-      {/* <Projects/> */}
+      <Projects/>
     </section>
   );
 };
