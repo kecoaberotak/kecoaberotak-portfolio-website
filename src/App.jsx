@@ -8,7 +8,7 @@ function App() {
     <div className="main">
       <Navbar/>
       <FixedSection/>
-      <ScrollSection/>
+      {/* <ScrollSection/> */}
     </div>
   )
 }
