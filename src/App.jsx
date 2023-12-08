@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="main">
-      {/* <Navbar/> */}
+      <Navbar/>
       <FixedSection/>
       {/* <ScrollSection/> */}
     </div>

@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return(
     <nav className={`${navOption}`}>
-      <ul className="flex gap-6 mr-16 p-5 text-xl font-bold">
+      <ul className="flex gap-6 md:mr-16 p-5 md:text-lg lg:text-xl font-bold">
         <li className="hover:text-biruLight duration-500">
           <a href="#about">About</a>
         </li>
