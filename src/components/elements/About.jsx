@@ -50,7 +50,7 @@ const About = () => {
         <br />in Web Development.
       </p>
       <p className="text-lg mb-4 text-abuDark">
-        I&#39;m into <span className="font-semibold">frontend development</span> and UI/UX design. 
+        I&#39;m into <span className="font-semibold">front-end development</span> and UI/UX design. 
         <br />I like to create clean website design.
       </p>
       <p className="text-lg mb-8 text-abuDark">
